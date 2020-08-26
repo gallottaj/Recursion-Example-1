@@ -32,7 +32,6 @@ namespace CountToOne
                 {
                     Console.WriteLine("N is even. Divide by 2");
                     return countToOne(n / 2);
-
                 }
                 else
                 {
